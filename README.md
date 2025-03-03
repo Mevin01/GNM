@@ -1,7 +1,7 @@
 # Driver Activity Recognition using Fuzzy Rule-Based Network and Gaussian Models
 
 ## Overview
-This project implements **Driver Activity Recognition** using a **Fuzzy Rule-Based Network**, **Gaussian Mixture Model (GMM)**, and **Gaussian Network Model (GNM)**. These models analyze driver activities based on extracted features from the **StateFarm Distracted Driver Dataset** to assess driver alertness and identify risky behaviors.
+This project implements **Driver Activity Recognition** using a **Fuzzy Rule-Based Network**, **Gaussian Mixture Model (GMM)**, and **Gaussian Network Model (GNM)**. These models analyze driver activities based on extracted features from the **Self-Desinged** to assess driver alertness and identify risky behaviors.
 
 ## Algorithm Explanation
 ### **Fuzzy Rule-Based Network**
